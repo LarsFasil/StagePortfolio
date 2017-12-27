@@ -1,0 +1,15 @@
+Stap 1: Bewijs selecteren
+Kies voor je portfolio steeds je beste en meest complexe voorbeeld uit de bewijzen die je tijdens de stage hebt verzameld.
+De competenties professioneel vakmanschap, onderzoekend vermogen, communicatief vermogen en leervermogen móet je bewijzen tijdens je assessment. Bewijzen bij deze competenties mogen alleen uit je stage komen. De overige competenties mág je bewijzen en het bewijs ervoor mag ook van buiten je stage komen. Als je ze gaat bewijzen, gebruik je competentieformulieren en STARRs. Als je ze niet gaat bewijzen, moet je wel nog een visie schrijven op desbetreffende competenties en hoe je er aan wilt gaan werken.
+
+Professioneel vakmanschap:
+	bewijs: De ontwikkelde applicaties
+
+Onderzoekend vermogen:
+	bewijs: De ontwikkelde applicaties, mixed reality headset vergelijking, research van het stage onderzoek.
+
+Communicatief vermogen:
+	bewijs: De presentaties voor de klassen, demonstraties op de inspiratiedag
+
+Leervermogen:
+	bewijs: Git versiebeheer?
